@@ -1,6 +1,6 @@
-# Entendendo o porjeto
+# Entendendo o projeto
 Um projeto python que gera um ou mais certificados a partir de uma imagem padrão pré-definida.
-Foi desenvolvido com o intuito de aprendizado e usabilidade para pessoas da área da docência que precisam
+Foi desenvolvido com o intuito de aprendizado e pensado para pessoas da área da docência que precisam
 gerar certificados para uma grande quantidade de pessoas e o fazem de forma manual.
 
 # Primeiras coisas
