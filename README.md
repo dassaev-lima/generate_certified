@@ -3,7 +3,7 @@ Um projeto python que gera um ou mais certificados a partir de uma imagem padrã
 Foi desenvolvido com o intuito de aprendizado e pensado para pessoas da área da docência que precisam
 gerar certificados para uma grande quantidade de pessoas e o fazem de forma manual.
 
-### Primeiras coisas
+### :gear: Primeiras coisas
 Antes de começar a usar a ferramenta é preciso se certificar que sua máquina possui o python3 e o PIP instalados corretamente. Após isso
 é preciso instalar a bilioteca pillow
 
