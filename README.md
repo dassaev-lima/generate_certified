@@ -1,18 +1,18 @@
-### Entendendo o projeto
-Um projeto python que gera um ou mais certificados a partir de uma imagem padrão pré-definida.
-Foi desenvolvido com o intuito de aprendizado e pensado para pessoas da área da docência que precisam
-gerar certificados para uma grande quantidade de pessoas e o fazem de forma manual.
+## :clipboard: Index
+- [About project](#spiral_notepad-about-project)
+- [Requirements](#gear-requirements)
+- [Run](#rocket-run-project)
 
-### :gear: Primeiras coisas
-Antes de começar a usar a ferramenta é preciso se certificar que sua máquina possui o python3 e o PIP instalados corretamente. Após isso
-é preciso instalar a bilioteca pillow
+## :spiral_notepad: About project
+> A python project that generates one or more certificates from a predefined default image. It is designed for teachers who need to generate a large amount of student certificates
 
-- ```pip install Pillow```
+### :gear: Requirements
+For the application to work, it is important to have python3 and pip installed correctly and after that to install the pillow library.
 
-### como executar
+```pip install Pillow```
 
-Se após seguir os passos anteriores estiver tudo configurado corretamente acesse por linha de comando o diretório em que está o projeto
-e execute o arquivo main.py usando o seguinte comando.
+### :rocket: Run project
+After meeting the requirements, clone the project to your machine and access the directory where you saved it and run the next command line.
 
 - ```python3 main.py```
 
